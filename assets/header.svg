@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="200" viewBox="0 0 860 200" role="img" aria-label="Rohit Behera — Backend engineer, Java and Spring Boot, payments and core banking">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#181825"/>
+      <stop offset="55%"  stop-color="#1e1e2e"/>
+      <stop offset="100%" stop-color="#232338"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#89b4fa"/>
+      <stop offset="35%"  stop-color="#cba6f7"/>
+      <stop offset="70%"  stop-color="#94e2d5"/>
+      <stop offset="100%" stop-color="#89b4fa"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#cdd6f4" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#cdd6f4" stop-opacity=".13"/>
+      <stop offset="100%" stop-color="#cdd6f4" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="860" height="200" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="860" height="200" fill="url(#bg)"/>
+
+    <!-- faint grid -->
+    <g stroke="#313244" stroke-width="1" opacity=".5">
+      <path d="M0 40h860M0 80h860M0 120h860M0 160h860"/>
+      <path d="M120 0v200M240 0v200M360 0v200M480 0v200M600 0v200M720 0v200"/>
+    </g>
+
+    <!-- orbit arcs, evoking distributed nodes -->
+    <g fill="none" stroke="#45475a" opacity=".55">
+      <circle cx="748" cy="100" r="46"/>
+      <circle cx="748" cy="100" r="70"/>
+      <circle cx="748" cy="100" r="94"/>
+    </g>
+    <g fill="#89b4fa">
+      <circle cx="794" cy="100" r="4"><animate attributeName="opacity" values="1;.25;1" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="748" cy="30"  r="3.5" fill="#cba6f7"><animate attributeName="opacity" values=".3;1;.3" dur="3.6s" repeatCount="indefinite"/></circle>
+      <circle cx="678" cy="100" r="3.5" fill="#94e2d5"><animate attributeName="opacity" values=".7;.2;.7" dur="4.2s" repeatCount="indefinite"/></circle>
+      <circle cx="748" cy="170" r="3" fill="#a6e3a1"><animate attributeName="opacity" values=".2;.9;.2" dur="5s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- sweeping sheen -->
+    <rect x="-300" y="0" width="300" height="200" fill="url(#sheen)">
+      <animate attributeName="x" from="-300" to="900" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- text -->
+    <text x="44" y="82" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+          font-size="40" font-weight="700" fill="#cdd6f4" letter-spacing="-.5">Rohit Behera</text>
+    <rect x="44" y="98" width="150" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="44" y="128" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+          font-size="15" fill="#a6adc8">Backend engineer  ·  Java &amp; Spring Boot  ·  payments and core banking</text>
+    <text x="44" y="156" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+          font-size="13.5" fill="#6c7086">India  ·  distributed systems, idempotency, failure modes</text>
+
+    <rect x="0" y="196" width="860" height="4" fill="url(#accent)"/>
+  </g>
+</svg>

@@ -1,12 +1,12 @@
-<h1 align="center">Rohit Behera</h1>
-
 <p align="center">
-  Backend engineer · Java &amp; Spring Boot · payments and core banking
+  <img src="assets/header.svg" alt="Rohit Behera — backend engineer, Java and Spring Boot, payments and core banking" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://github.com/r0h1tb?tab=repositories"><img alt="Location" src="https://img.shields.io/badge/India-0b7285?style=flat-square&logo=googlemaps&logoColor=white"></a>
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Ar0h1tb"><img alt="Open source PRs" src="https://img.shields.io/badge/open%20source-upstream%20PRs-2b8a3e?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Ar0h1tb+is%3Amerged"><img alt="Merged PRs" src="https://img.shields.io/badge/38-merged%20upstream%20PRs-a6e3a1?style=for-the-badge&labelColor=1e1e2e&logo=github&logoColor=white"></a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Ar0h1tb+is%3Aopen"><img alt="Open PRs" src="https://img.shields.io/badge/14-in%20review-f9e2af?style=for-the-badge&labelColor=1e1e2e&logo=git&logoColor=white"></a>
+  <img alt="Location" src="https://img.shields.io/badge/India-89b4fa?style=for-the-badge&labelColor=1e1e2e&logo=googlemaps&logoColor=white">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=r0h1tb&style=for-the-badge&color=cba6f7&label=VISITORS">
 </p>
 
 ---
@@ -28,62 +28,51 @@ build backend services to keep the fundamentals sharp.
 
 ### Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,kafka,rabbitmq,redis,kubernetes,aws,docker,maven,git,go,python,ts" alt="Java, Spring, PostgreSQL, Kafka, RabbitMQ, Redis, Kubernetes, AWS, Docker, Maven, Git, Go, Python, TypeScript">
+</p>
 
-![Hibernate](https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0000?style=for-the-badge&logo=flyway&logoColor=white)
-![Resilience4j](https://img.shields.io/badge/Resilience4j-2C5F2D?style=for-the-badge)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F?style=for-the-badge&logo=testcontainers&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <sub>Also: JPA/Hibernate · Flyway · Resilience4j · Testcontainers · JUnit 5 · Prometheus · OpenAPI</sub>
+</p>
 
 ---
 
 ### Open source
 
-Fixes I've sent upstream to libraries I use. Each one ships with a regression
-test that fails on `main` and passes with the patch.
+<img src="assets/upstream-impact.svg" alt="Code merged upstream: 38 merged pull requests across 11 projects totalling 478K stars" width="100%">
 
-| Project | | PR | What it fixes |
+Fixes I've sent upstream to libraries I actually use. Each one ships with a
+regression test that fails on `main` and passes with the patch.
+
+| Project | | PR | What it fixed |
 |---|---|---|---|
-| [**axios**](https://github.com/axios/axios) | `109k ★` | [#11118](https://github.com/axios/axios/pull/11118) | `TypeError` when an interceptor is ejected mid-request — nullish handlers weren't guarded |
-| [**spf13/cobra**](https://github.com/spf13/cobra) | `44k ★` | [#2473](https://github.com/spf13/cobra/pull/2473) | Misaligned help output after a command subtree is re-parented |
-| [**goccy/go-json**](https://github.com/goccy/go-json) | `3.7k ★` | [#600](https://github.com/goccy/go-json/pull/600) | Multi-byte runes corrupted when split across a stream buffer boundary |
-| [**hermes-workspace**](https://github.com/outsourc-e/hermes-workspace) | `6.3k ★` | [#735](https://github.com/outsourc-e/hermes-workspace/pull/735) | MCP server list fetched from the wrong endpoint, on both the probe and data path |
-| [**qdrant-client**](https://github.com/qdrant/qdrant-client) | `1.3k ★` | [#1303](https://github.com/qdrant/qdrant-client/pull/1303) | `values_count` range filter applied bounds across different counts |
-| [**raged**](https://github.com/lexasub/raged) | | [#48](https://github.com/lexasub/raged/pull/48) | Data race — parser manager and parse caches weren't thread-safe |
+| [**axios**](https://github.com/axios/axios) | `109k ★` | [#11118](https://github.com/axios/axios/pull/11118) ✅ | `TypeError` when an interceptor is ejected mid-request — nullish handlers weren't guarded |
+| [**caddy**](https://github.com/caddyserver/caddy) | `76k ★` | [#7922](https://github.com/caddyserver/caddy/pull/7922) ✅ | Proxy URLs resolving to a port the server would then bind |
+| [**docling**](https://github.com/docling-project/docling) | `66k ★` | [#3985](https://github.com/docling-project/docling/pull/3985) ✅ | CSV dialect misdetected when a quoted field spans several lines |
+| [**prometheus**](https://github.com/prometheus/prometheus) | `66k ★` | [#19324](https://github.com/prometheus/prometheus/pull/19324) [#19396](https://github.com/prometheus/prometheus/pull/19396) [#19486](https://github.com/prometheus/prometheus/pull/19486) ✅ | Discovery panicked on AWS Lightsail and ECS resources with absent optional fields |
+| [**rclone**](https://github.com/rclone/rclone) | `60k ★` | [#9785](https://github.com/rclone/rclone/pull/9785) [#9786](https://github.com/rclone/rclone/pull/9786) [#9801](https://github.com/rclone/rclone/pull/9801) ✅ | Truncated uploads reported as successful on box, yandex and huaweidrive |
+| [**keycloak**](https://github.com/keycloak/keycloak) | `37k ★` | [#51356](https://github.com/keycloak/keycloak/pull/51356) ✅ | Blank key-attestation values emitted into OID4VCI metadata |
+| [**mastra**](https://github.com/mastra-ai/mastra) | `28k ★` | [#20591](https://github.com/mastra-ai/mastra/pull/20591) ✅ | Stale `@mastra/core` peer floors across nine store packages |
+| [**goreleaser**](https://github.com/goreleaser/goreleaser) | `16k ★` | [#6752](https://github.com/goreleaser/goreleaser/pull/6752) ✅ | Generated Homebrew Casks didn't pass `brew style` |
+| [**langchain4j**](https://github.com/langchain4j/langchain4j) | `13k ★` | [#6091](https://github.com/langchain4j/langchain4j/pull/6091) ✅ | Splitter failed outright on text with no detectable sentence boundary |
+| [**go-git**](https://github.com/go-git/go-git) | `7.7k ★` | [#2305](https://github.com/go-git/go-git/pull/2305) ✅ | Revlist path validation rejected objects it shouldn't walk |
+| [**raged**](https://github.com/lexasub/raged) | | **24 merged** | Top external contributor — Tree-sitter parsing, Neo4j graph, Qdrant vectors |
 
-<sub>All six are open as of August 2026 — links go to the live PRs, status included.</sub>
+<sub>✅ merged. Currently in review: <a href="https://github.com/langgenius/dify/pull/40879">dify</a> (155k ★, constant-time signature comparison),
+<a href="https://github.com/spf13/cobra/pull/2473">cobra</a> (45k ★), <a href="https://github.com/thanos-io/thanos/pull/8976">thanos</a> (14k ★),
+<a href="https://github.com/Unstructured-IO/unstructured/pull/4451">unstructured</a> (15k ★, ×2),
+<a href="https://github.com/Chainlit/chainlit/pull/3013">chainlit</a> (12k ★), <a href="https://github.com/goccy/go-json/pull/600">go-json</a> (3.7k ★),
+plus follow-ups on prometheus, rclone, langchain4j, go-git, mastra and hermes-workspace.</sub>
 
 ---
 
 ### Stats
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=r0h1tb&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&hide_title=true">
-    <img height="165" alt="Rohit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=r0h1tb&show_icons=true&hide_border=true&include_all_commits=true&theme=graywhite&hide_title=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=r0h1tb&layout=compact&hide_border=true&langs_count=8&theme=github_dark&hide_title=true">
-    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0h1tb&layout=compact&hide_border=true&langs_count=8&theme=graywhite&hide_title=true">
-  </picture>
-</p>
+<img src="assets/stats.svg" alt="38 merged upstream pull requests, 22 open-source projects contributed to, 173 contributions in the last 12 months, 61 pull requests opened" width="100%">
 
 ---
 
-### Elsewhere
-
-[![PRs](https://img.shields.io/badge/my%20pull%20requests-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3Ar0h1tb)
+<p align="center">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Ar0h1tb"><img alt="All my pull requests" src="https://img.shields.io/badge/browse%20all%20my%20pull%20requests-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4"></a>
+</p>

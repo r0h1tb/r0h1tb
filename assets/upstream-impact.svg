@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="524" viewBox="0 0 860 524" role="img" aria-label="Code merged upstream: 38 merged pull requests across 11 open-source projects">
+  <defs>
+    <linearGradient id="b1" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#89b4fa"/><stop offset="100%" stop-color="#cba6f7"/></linearGradient>
+    <linearGradient id="b2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#89b4fa"/><stop offset="100%" stop-color="#74c7ec"/></linearGradient>
+    <linearGradient id="b3" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#94e2d5"/><stop offset="100%" stop-color="#a6e3a1"/></linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#89b4fa"/><stop offset="50%" stop-color="#cba6f7"/><stop offset="100%" stop-color="#94e2d5"/></linearGradient>
+    <clipPath id="c"><rect width="860" height="524" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#c)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <rect width="860" height="524" fill="#1e1e2e"/>
+    <rect width="860" height="524" rx="14" fill="none" stroke="#313244" stroke-width="2"/>
+
+    <!-- title -->
+    <text x="28" y="42" font-size="19" font-weight="700" fill="#cdd6f4">Code merged upstream</text>
+    <text x="28" y="64" font-size="12.5" fill="#6c7086">Bars show each project's stars. Badges show how many of my pull requests they merged.</text>
+
+    <!-- summary chips -->
+    <g>
+      <rect x="28"  y="76" width="128" height="26" rx="6" fill="#313244"/>
+      <text x="40"  y="94" font-size="12.5" fill="#a6e3a1" font-weight="700">38 merged</text>
+      <rect x="164" y="76" width="150" height="26" rx="6" fill="#313244"/>
+      <text x="176" y="94" font-size="12.5" fill="#89b4fa" font-weight="700">11 projects</text>
+      <rect x="322" y="76" width="196" height="26" rx="6" fill="#313244"/>
+      <text x="334" y="94" font-size="12.5" fill="#cba6f7" font-weight="700">478K combined stars</text>
+      <rect x="526" y="76" width="164" height="26" rx="6" fill="#313244"/>
+      <text x="538" y="94" font-size="12.5" fill="#f9e2af" font-weight="700">14 more in review</text>
+    </g>
+
+    <line x1="28" y1="116" x2="832" y2="116" stroke="#313244" stroke-width="1.5"/>
+
+    <!-- rows -->
+    <g font-size="13">
+      <!-- axios -->
+      <text x="28" y="146" fill="#cdd6f4">axios</text>
+      <rect x="212" y="136" width="400" height="13" rx="6.5" fill="url(#b1)"><animate attributeName="opacity" values="1;0.82;1" dur="4s" repeatCount="indefinite"/></rect>
+      <text x="624" y="146" fill="#a6adc8" font-size="12">109,231 ★</text>
+      <rect x="740" y="135" width="30" height="15" rx="7.5" fill="#313244"/><text x="748" y="146" fill="#a6e3a1" font-size="11" font-weight="700">1</text>
+
+      <!-- caddy -->
+      <text x="28" y="179" fill="#cdd6f4">caddy</text>
+      <rect x="212" y="169" width="277" height="13" rx="6.5" fill="url(#b1)"><animate attributeName="opacity" values="1;0.82;1" dur="4s" repeatCount="indefinite"/></rect>
+      <text x="624" y="179" fill="#a6adc8" font-size="12">75,588 ★</text>
+      <rect x="740" y="168" width="30" height="15" rx="7.5" fill="#313244"/><text x="748" y="179" fill="#a6e3a1" font-size="11" font-weight="700">1</text>
+
+      <!-- docling -->
+      <text x="28" y="212" fill="#cdd6f4">docling</text>
+      <rect x="212" y="202" width="242" height="13" rx="6.5" fill="url(#b2)"><animate attributeName="opacity" values="1;0.82;1" dur="4s" repeatCount="indefinite"/></rect>
+      <text x="624" y="212" fill="#a6adc8" font-size="12">66,198 ★</text>
+      <rect x="740" y="201" width="30" height="15" rx="7.5" fill="#313244"/><text x="748" y="212" fill="#a6e3a1" font-size="11" font-weight="700">1</text>
+
+      <!-- prometheus -->
+      <text x="28" y="245" fill="#cdd6f4">prometheus</text>
+      <rect x="212" y="235" width="242" height="13" rx="6.5" fill="url(#b2)"><animate attributeName="opacity" values="1;0.82;1" dur="4s" repeatCount="indefinite"/></rect>
+      <text x="624" y="245" fill="#a6adc8" font-size="12">66,017 ★</text>
+      <rect x="740" y="234" width="30" height="15" rx="7.5" fill="#313244"/><text x="748" y="245" fill="#a6e3a1" font-size="11" font-weight="700">3</text>
+
+      <!-- rclone -->
+      <text x="28" y="278" fill="#cdd6f4">rclone</text>
+      <rect x="212" y="268" width="219" height="13" rx="6.5" fill="url(#b2)"><animate attributeName="opacity" values="1;0.82;1" dur="4s" repeatCount="indefinite"/></rect>
+      <text x="624" y="278" fill="#a6adc8" font-size="12">59,657 ★</text>
+      <rect x="740" y="267" width="30" height="15" rx="7.5" fill="#313244"/><text x="748" y="278" fill="#a6e3a1" font-size="11" font-weight="700">3</text>
+
+      <!-- keycloak -->
+      <text x="28" y="311" fill="#cdd6f4">keycloak</text>
+      <rect x="212" y="301" width="134" height="13" rx="6.5" fill="url(#b2)"><animate attributeName="opacity" values="1;0.82;1" dur="4s" repeatCount="indefinite"/></rect>
+      <text x="624" y="311" fill="#a6adc8" font-size="12">36,683 ★</text>
+      <rect x="740" y="300" width="30" height="15" rx="7.5" fill="#313244"/><text x="748" y="311" fill="#a6e3a1" font-size="11" font-weight="700">1</text>
+
+      <!-- mastra -->
+      <text x="28" y="344" fill="#cdd6f4">mastra</text>
+      <rect x="212" y="334" width="102" height="13" rx="6.5" fill="url(#b3)"><animate attributeName="opacity" values="1;0.82;1" dur="4s" repeatCount="indefinite"/></rect>
+      <text x="624" y="344" fill="#a6adc8" font-size="12">27,842 ★</text>
+      <rect x="740" y="333" width="30" height="15" rx="7.5" fill="#313244"/><text x="748" y="344" fill="#a6e3a1" font-size="11" font-weight="700">1</text>
+
+      <!-- goreleaser -->
+      <text x="28" y="377" fill="#cdd6f4">goreleaser</text>
+      <rect x="212" y="367" width="59" height="13" rx="6.5" fill="url(#b3)"><animate attributeName="opacity" values="1;0.82;1" dur="4s" repeatCount="indefinite"/></rect>
+      <text x="624" y="377" fill="#a6adc8" font-size="12">16,025 ★</text>
+      <rect x="740" y="366" width="30" height="15" rx="7.5" fill="#313244"/><text x="748" y="377" fill="#a6e3a1" font-size="11" font-weight="700">1</text>
+
+      <!-- langchain4j -->
+      <text x="28" y="410" fill="#cdd6f4">langchain4j</text>
+      <rect x="212" y="400" width="48" height="13" rx="6.5" fill="url(#b3)"><animate attributeName="opacity" values="1;0.82;1" dur="4s" repeatCount="indefinite"/></rect>
+      <text x="624" y="410" fill="#a6adc8" font-size="12">13,056 ★</text>
+      <rect x="740" y="399" width="30" height="15" rx="7.5" fill="#313244"/><text x="748" y="410" fill="#a6e3a1" font-size="11" font-weight="700">1</text>
+
+      <!-- go-git -->
+      <text x="28" y="443" fill="#cdd6f4">go-git</text>
+      <rect x="212" y="433" width="28" height="13" rx="6.5" fill="url(#b3)"><animate attributeName="opacity" values="1;0.82;1" dur="4s" repeatCount="indefinite"/></rect>
+      <text x="624" y="443" fill="#a6adc8" font-size="12">7,706 ★</text>
+      <rect x="740" y="432" width="30" height="15" rx="7.5" fill="#313244"/><text x="748" y="443" fill="#a6e3a1" font-size="11" font-weight="700">1</text>
+
+      <!-- raged -->
+      <text x="28" y="476" fill="#cdd6f4">raged</text>
+      <rect x="212" y="466" width="4" height="13" rx="2" fill="#6c7086"/>
+      <text x="624" y="476" fill="#6c7086" font-size="12">4 ★</text>
+      <rect x="734" y="465" width="42" height="15" rx="7.5" fill="#313244"/><text x="742" y="476" fill="#a6e3a1" font-size="11" font-weight="700">24</text>
+    </g>
+
+    <line x1="28" y1="494" x2="832" y2="494" stroke="#313244" stroke-width="1.5"/>
+    <text x="28" y="512" font-size="11.5" fill="#6c7086">raged: top external contributor — Tree-sitter, Neo4j, Qdrant. Star counts as of September 2026.</text>
+    <rect x="0" y="520" width="860" height="4" fill="url(#rule)"/>
+  </g>
+</svg>
