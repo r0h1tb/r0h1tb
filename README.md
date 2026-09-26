@@ -55,15 +55,16 @@ regression test that fails on `main` and passes with the patch.
 | [**keycloak**](https://github.com/keycloak/keycloak) | `37k ★` | [#51356](https://github.com/keycloak/keycloak/pull/51356) ✅ | Blank key-attestation values emitted into OID4VCI metadata |
 | [**mastra**](https://github.com/mastra-ai/mastra) | `28k ★` | [#20591](https://github.com/mastra-ai/mastra/pull/20591) ✅ | Stale `@mastra/core` peer floors across nine store packages |
 | [**goreleaser**](https://github.com/goreleaser/goreleaser) | `16k ★` | [#6752](https://github.com/goreleaser/goreleaser/pull/6752) ✅ | Generated Homebrew Casks didn't pass `brew style` |
+| [**unstructured**](https://github.com/Unstructured-IO/unstructured) | `15k ★` | [#4449](https://github.com/Unstructured-IO/unstructured/pull/4449) ✅ | spaCy ran three times on the same text for every element; `partition_html()` about 3× faster |
 | [**langchain4j**](https://github.com/langchain4j/langchain4j) | `13k ★` | [#6091](https://github.com/langchain4j/langchain4j/pull/6091) ✅ | Splitter failed outright on text with no detectable sentence boundary |
 | [**go-git**](https://github.com/go-git/go-git) | `7.7k ★` | [#2305](https://github.com/go-git/go-git/pull/2305) ✅ | Revlist path validation rejected objects it shouldn't walk |
 | [**raged**](https://github.com/lexasub/raged) | | **24 merged** | Top external contributor — Tree-sitter parsing, Neo4j graph, Qdrant vectors |
 
-<sub>✅ merged. Currently in review: <a href="https://github.com/langgenius/dify/pull/40879">dify</a> (155k ★, constant-time signature comparison),
-<a href="https://github.com/spf13/cobra/pull/2473">cobra</a> (45k ★), <a href="https://github.com/thanos-io/thanos/pull/8976">thanos</a> (14k ★),
-<a href="https://github.com/Unstructured-IO/unstructured/pull/4451">unstructured</a> (15k ★, ×2),
+<sub>✅ merged. Currently in review: <a href="https://github.com/docling-project/docling/pull/4388">docling</a> (66k ★, MHTML charset decoding),
+<a href="https://github.com/rclone/rclone/pull/9985">rclone</a> (60k ★, rc option parsing), <a href="https://github.com/spf13/cobra/pull/2473">cobra</a> (45k ★),
+<a href="https://github.com/Unstructured-IO/unstructured/pulls?q=is%3Apr+author%3Ar0h1tb+is%3Aopen">unstructured</a> (15k ★, ×2), <a href="https://github.com/thanos-io/thanos/pull/8976">thanos</a> (14k ★),
 <a href="https://github.com/Chainlit/chainlit/pull/3013">chainlit</a> (12k ★), <a href="https://github.com/goccy/go-json/pull/600">go-json</a> (3.7k ★),
-plus follow-ups on prometheus, rclone, langchain4j, go-git, mastra and hermes-workspace.</sub>
+plus follow-ups on prometheus, rclone, langchain4j, go-git and hermes-workspace.</sub>
 
 ---
 
