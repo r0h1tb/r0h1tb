@@ -11,16 +11,16 @@
 
 ---
 
-I build account-servicing and payment APIs for a global bank's core banking
-platform — the kind of systems where a retry has to be idempotent, a rollback
+For three years I built account-servicing and payment APIs for a global bank's
+core banking platform — the kind of systems where a retry has to be idempotent, a rollback
 plan matters as much as the feature, and "it works on my machine" isn't a
-finish line. Day to day that means Java, Spring Boot, message-driven
+finish line. Day to day that meant Java, Spring Boot, message-driven
 integration, and a lot of time spent on failure modes.
 
-Outside work I contribute fixes to open-source libraries I actually use, and
-build backend services to keep the fundamentals sharp.
+I also contribute fixes to open-source libraries I actually use, and build
+backend services to keep the fundamentals sharp.
 
-- 🔭 Building a **credit-card onboarding platform** — Spring Boot microservices, event-driven, with bureau and decisioning services split out
+- 🔭 Building a **credit-card onboarding platform** as a personal capstone — event-driven Spring Boot, monolith-first, with RabbitMQ, an outbox and dead-letter queues
 - 🌱 Going deeper on **distributed systems**: consistency, backpressure, and failure recovery
 - 🤝 Open to backend / platform roles and to reviewing PRs on anything below
 
