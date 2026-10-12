@@ -1,14 +1,15 @@
 name: Update README
 
-# Rewrites the merged / in-review / building sections from the GitHub API,
-# so the profile shows what actually shipped without anyone editing it.
+# Rewrites the merged / in-review / building sections and redraws the chart
+# from the GitHub API, so the profile shows what actually shipped without
+# anyone editing it.
 on:
   schedule:
     - cron: "23 2 * * *"
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [build_readme.py, .github/workflows/update.yml]
+    paths: [build_readme.py, chart.py, .github/workflows/update.yml]
 
 permissions:
   contents: write
@@ -26,8 +27,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit if changed
         run: |
-          git diff --quiet README.md && exit 0
+          git add README.md assets
+          git diff --cached --quiet && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "Refresh README from GitHub activity"
+          git commit -m "Refresh README from GitHub activity"
           git push

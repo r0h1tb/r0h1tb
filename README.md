@@ -4,6 +4,8 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 
 <samp><a href="https://r0h1tb.github.io">site</a> · <a href="https://r0h1tb.github.io/ask/">ask my work</a> · <a href="https://www.linkedin.com/in/rohit-behera-64877b182/">linkedin</a> · <a href="mailto:rohit.behera12232@gmail.com">email</a></samp>
 
+<img alt="Timeline of 19 fixes merged into 12 open-source projects, from axios and Caddy to Prometheus and rclone. 10 of them fixed bugs that raised no error." src="assets/upstream.svg" width="100%">
+
 <table><tr><td valign="top" width="50%">
 
 **Merged upstream**

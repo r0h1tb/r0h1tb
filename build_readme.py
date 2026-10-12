@@ -13,8 +13,14 @@ import urllib.request
 from datetime import datetime
 from pathlib import Path
 
+import chart
+
 USER = "r0h1tb"
 README = Path(__file__).parent / "README.md"
+ASSETS = Path(__file__).parent / "assets"
+# What each fix was about, written from the PR descriptions. The site's build
+# fails if a merged PR has no entry, so this stays complete without help here.
+NOTES = "https://raw.githubusercontent.com/r0h1tb/r0h1tb.github.io/main/src/data/upstream-notes.ts"
 
 # Own projects shown under "Building", in this order. Dates come from the API.
 BUILDING = [
@@ -37,6 +43,12 @@ def get(path):
     )
     with urllib.request.urlopen(req, timeout=30) as res:
         return json.load(res)
+
+
+def failure_classes():
+    with urllib.request.urlopen(NOTES, timeout=30) as res:
+        text = res.read().decode()
+    return dict(re.findall(r'"([\w.-]+/[\w.-]+#\d+)":\s*\{\s*cls:\s*"(\w+)"', text))
 
 
 def search_prs(query):
@@ -110,6 +122,11 @@ def main():
         f"kept current daily by [a script](build_readme.py), not by hand</sub>",
     )
     README.write_text(text)
+
+    stars = {r: get(f"/repos/{r}")["stargazers_count"] for r in {repo_of(i) for i in merged}}
+    classes = failure_classes()
+    ASSETS.mkdir(exist_ok=True)
+    (ASSETS / "upstream.svg").write_text(chart.render(merged, len(open_prs), stars, classes))
 
 
 if __name__ == "__main__":
