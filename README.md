@@ -24,12 +24,12 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 **In review**
 
 <!-- review starts -->
+[qdrant-client #1606](https://github.com/qdrant/qdrant-client/pull/1606) preserve persisted metadata when saves fail <sub>Oct 19</sub><br>
+[xgrammar #997](https://github.com/mlc-ai/xgrammar/pull/997) enforce integer multipleOf with one-sided and large ranges <sub>Oct 18</sub><br>
+[aisuite #424](https://github.com/andrewyng/aisuite/pull/424) preserve text across Bedrock response blocks <sub>Oct 18</sub><br>
 [llama-agents #813](https://github.com/run-llama/llama-agents/pull/813) resolve resources safely across concurrent workflow steps <sub>Oct 16</sub><br>
-[docling #4394](https://github.com/docling-project/docling/pull/4394) skip comments instead of emitting them as text <sub>Sep 27</sub><br>
-[docling #4391](https://github.com/docling-project/docling/pull/4391) keep a titled paragraph and the text after it <sub>Sep 26</sub><br>
-[unstructured #4503](https://github.com/Unstructured-IO/unstructured/pull/4503) extract &lt;figure&gt; content instead of discarding it <sub>Sep 26</sub><br>
-[rclone #9985](https://github.com/rclone/rclone/pull/9985) fix sizes and durations passed as numbers in flat parameters <sub>Sep 26</sub><br>
-[docling #4388](https://github.com/docling-project/docling/pull/4388) don't decode the HTML part twice when the page has a meta charset <sub>Sep 26</sub>
+[docling #4394](https://github.com/docling-project/docling/pull/4394) keep /// as text and support longer comment delimiters <sub>Sep 27</sub><br>
+[docling #4391](https://github.com/docling-project/docling/pull/4391) keep a titled paragraph and the text after it <sub>Sep 26</sub>
 <!-- review ends -->
 
 </td></tr></table>
@@ -44,5 +44,5 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 <!-- building ends -->
 
 <!-- totals starts -->
-<sub>19 fixes merged into 12 projects · 15 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
+<sub>19 fixes merged into 12 projects · 18 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
 <!-- totals ends -->
