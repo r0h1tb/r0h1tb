@@ -26,10 +26,10 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 <!-- review starts -->
 [gcfg #16](https://github.com/go-git/gcfg/pull/16) Read a leading BOM and continued values the way git does <sub>Oct 19</sub><br>
 [rclone #10141](https://github.com/rclone/rclone/pull/10141) return 416 for ranges --rc-serve and serve restic can't satisfy <sub>Oct 19</sub><br>
-[qdrant-client #1606](https://github.com/qdrant/qdrant-client/pull/1606) preserve persisted metadata when saves fail <sub>Oct 19</sub><br>
 [xgrammar #997](https://github.com/mlc-ai/xgrammar/pull/997) enforce integer multipleOf with one-sided and large ranges <sub>Oct 18</sub><br>
 [aisuite #424](https://github.com/andrewyng/aisuite/pull/424) preserve text across Bedrock response blocks <sub>Oct 18</sub><br>
-[llama-agents #813](https://github.com/run-llama/llama-agents/pull/813) resolve resources safely across concurrent workflow steps <sub>Oct 16</sub>
+[llama-agents #813](https://github.com/run-llama/llama-agents/pull/813) resolve resources safely across concurrent workflow steps <sub>Oct 16</sub><br>
+[docling #4394](https://github.com/docling-project/docling/pull/4394) keep /// as text and support longer comment delimiters <sub>Sep 27</sub>
 <!-- review ends -->
 
 </td></tr></table>
@@ -44,5 +44,5 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 <!-- building ends -->
 
 <!-- totals starts -->
-<sub>19 fixes merged into 12 projects · 20 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
+<sub>19 fixes merged into 12 projects · 19 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
 <!-- totals ends -->
