@@ -11,12 +11,12 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 **Merged upstream**
 
 <!-- merged starts -->
+[openevolve #546](https://github.com/algorithmicsuperintelligence/openevolve/pull/546) only treat whole lines as SEARCH/REPLACE markers <sub>Oct 25</sub><br>
+[docling #4394](https://github.com/docling-project/docling/pull/4394) keep /// as text and support longer comment delimiters <sub>Oct 25</sub><br>
 [openevolve #544](https://github.com/algorithmicsuperintelligence/openevolve/pull/544) drop the fence language tag when a full rewrite falls back to any code block <sub>Oct 25</sub><br>
 [rclone #9986](https://github.com/rclone/rclone/pull/9986) fix durations like 1d12h being rejected <sub>Sep 30</sub><br>
 [rclone #9987](https://github.com/rclone/rclone/pull/9987) fix --bwlimit timetables written out of order using the wrong limit <sub>Sep 30</sub><br>
-[trafilatura #940](https://github.com/adbar/trafilatura/pull/940) keep text that directly follows a list, table, quote or code block <sub>Sep 30</sub><br>
-[unstructured #4502](https://github.com/Unstructured-IO/unstructured/pull/4502) extract definition lists instead of discarding them <sub>Sep 27</sub><br>
-[unstructured #4449](https://github.com/Unstructured-IO/unstructured/pull/4449) run the spaCy pipeline once per distinct text <sub>Sep 15</sub>
+[trafilatura #940](https://github.com/adbar/trafilatura/pull/940) keep text that directly follows a list, table, quote or code block <sub>Sep 30</sub>
 <!-- merged ends -->
 
 </td><td valign="top" width="50%">
@@ -24,9 +24,9 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 **In review**
 
 <!-- review starts -->
+[docling-core #923](https://github.com/docling-project/docling-core/pull/923) stop key-value graph rendering at a to_child cycle <sub>Oct 25</sub><br>
 [trafilatura #1006](https://github.com/adbar/trafilatura/pull/1006) recognize Python-Markdown codehilite blocks as code <sub>Oct 25</sub><br>
 [txtai #1477](https://github.com/neuml/txtai/pull/1477) Store classification labels under the label key for custom label columns <sub>Oct 25</sub><br>
-[openevolve #546](https://github.com/algorithmicsuperintelligence/openevolve/pull/546) only treat whole lines as SEARCH/REPLACE markers <sub>Oct 25</sub><br>
 [unstructured-ingest #832](https://github.com/Unstructured-IO/unstructured-ingest/pull/832) stop generator_batching_wbytes from dropping items or yielding an empty batch <sub>Oct 24</sub><br>
 [txtai #1473](https://github.com/neuml/txtai/pull/1473) Keep RAG reference ids aligned with texts when empty texts are skipped <sub>Oct 24</sub><br>
 [gepa #524](https://github.com/gepa-ai/gepa/pull/524) strip a fence language tag followed by CRLF or trailing whitespace <sub>Oct 24</sub>
@@ -44,5 +44,5 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 <!-- building ends -->
 
 <!-- totals starts -->
-<sub>20 fixes merged into 13 projects · 26 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
+<sub>22 fixes merged into 13 projects · 25 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
 <!-- totals ends -->
