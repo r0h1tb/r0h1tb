@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="936" height="654" viewBox="0 0 936 654" role="img" aria-label="25 fixes merged into 14 open-source projects, 12 of them for bugs that raised no error. Median 4 days from opening a pull request to merge; 22 more in review."><title>25 fixes merged into 14 open-source projects, 12 of them for bugs that raised no error. Median 4 days from opening a pull request to merge; 22 more in review.</title>
-<rect width="936" height="654" rx="8" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="936" height="686" viewBox="0 0 936 686" role="img" aria-label="27 fixes merged into 15 open-source projects, 12 of them for bugs that raised no error. Median 3 days from opening a pull request to merge; 20 more in review."><title>27 fixes merged into 15 open-source projects, 12 of them for bugs that raised no error. Median 3 days from opening a pull request to merge; 20 more in review.</title>
+<rect width="936" height="686" rx="8" fill="#0d1117"/>
 <g transform="translate(28 28)">
-<text x="0" y="30" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="22" font-weight="600" fill="#f0f6fc">25 fixes merged into 14 projects</text>
+<text x="0" y="30" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="22" font-weight="600" fill="#f0f6fc">27 fixes merged into 15 projects</text>
 <text x="0" y="56" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#9198a1"><tspan fill="#f0a43a" font-weight="600">12 of them</tspan> fixed bugs that raised no error.</text>
-<text x="880" y="32" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="24" font-weight="600" fill="#f0f6fc">22</text>
+<text x="880" y="32" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="24" font-weight="600" fill="#f0f6fc">20</text>
 <text x="880" y="54" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#656c76">in review</text>
-<text x="760" y="32" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="24" font-weight="600" fill="#f0f6fc">4 days</text>
+<text x="760" y="32" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="24" font-weight="600" fill="#f0f6fc">3 days</text>
 <text x="760" y="54" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#656c76">median to merge</text>
 <line x1="0" y1="78" x2="880" y2="78" stroke="#21262d"/>
-<line x1="236.0" y1="110" x2="236.0" y2="554" stroke="#21262d"/>
+<line x1="236.0" y1="110" x2="236.0" y2="586" stroke="#21262d"/>
 <text x="242.0" y="104" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#656c76">Aug</text>
-<line x1="428.6" y1="110" x2="428.6" y2="554" stroke="#21262d"/>
-<text x="434.6" y="104" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#656c76">Sep</text>
-<line x1="615.0" y1="110" x2="615.0" y2="554" stroke="#21262d"/>
-<text x="621.0" y="104" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#656c76">Oct</text>
-<line x1="807.6" y1="110" x2="807.6" y2="554" stroke="#21262d"/>
+<line x1="426.6" y1="110" x2="426.6" y2="586" stroke="#21262d"/>
+<text x="432.6" y="104" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#656c76">Sep</text>
+<line x1="611.0" y1="110" x2="611.0" y2="586" stroke="#21262d"/>
+<text x="617.0" y="104" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#656c76">Oct</text>
+<line x1="801.6" y1="110" x2="801.6" y2="586" stroke="#21262d"/>
 <text x="0" y="104" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#656c76">project</text>
 <text x="206" y="104" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#656c76">stars</text>
 <text x="880" y="104" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#656c76">merged</text>
@@ -22,132 +22,142 @@
 <text x="206" y="137.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">109k</text>
 <text x="880" y="137.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">1</text>
 <line x1="236" y1="133.0" x2="820" y2="133.0" stroke="#262c36" stroke-dasharray="1 4"/>
-<line x1="236.0" y1="133.0" x2="310.6" y2="133.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<line x1="236.0" y1="133.0" x2="309.8" y2="133.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
 <circle cx="236.0" cy="133.0" r="2" fill="#4d5560"/>
-<circle cx="310.6" cy="133.0" r="4.5" fill="#9198a1"/>
+<circle cx="309.8" cy="133.0" r="4.5" fill="#9198a1"/>
 <text x="0" y="167.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">caddy</text>
-<text x="206" y="167.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">78k</text>
+<text x="206" y="167.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">79k</text>
 <text x="880" y="167.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">1</text>
 <line x1="236" y1="163.0" x2="820" y2="163.0" stroke="#262c36" stroke-dasharray="1 4"/>
-<line x1="260.9" y1="163.0" x2="291.9" y2="163.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="260.9" cy="163.0" r="2" fill="#4d5560"/>
-<circle cx="291.9" cy="163.0" r="4.5" fill="#f0a43a"/>
+<line x1="260.6" y1="163.0" x2="291.3" y2="163.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="260.6" cy="163.0" r="2" fill="#4d5560"/>
+<circle cx="291.3" cy="163.0" r="4.5" fill="#f0a43a"/>
 <text x="0" y="198.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">docling</text>
 <text x="206" y="198.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">70k</text>
 <text x="880" y="198.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">3</text>
 <line x1="236" y1="194.0" x2="820" y2="194.0" stroke="#262c36" stroke-dasharray="1 4"/>
-<line x1="583.9" y1="189.0" x2="770.3" y2="189.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="583.9" cy="189.0" r="2" fill="#4d5560"/>
-<circle cx="770.3" cy="189.0" r="4.5" fill="#f0a43a"/>
-<line x1="590.1" y1="199.0" x2="764.1" y2="199.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="590.1" cy="199.0" r="2" fill="#4d5560"/>
-<circle cx="764.1" cy="199.0" r="4.5" fill="#f0a43a"/>
-<line x1="310.6" y1="189.0" x2="391.3" y2="189.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="310.6" cy="189.0" r="2" fill="#4d5560"/>
-<circle cx="391.3" cy="189.0" r="4.5" fill="#9198a1"/>
+<line x1="580.3" y1="189.0" x2="764.7" y2="189.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="580.3" cy="189.0" r="2" fill="#4d5560"/>
+<circle cx="764.7" cy="189.0" r="4.5" fill="#f0a43a"/>
+<line x1="586.4" y1="199.0" x2="758.5" y2="199.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="586.4" cy="199.0" r="2" fill="#4d5560"/>
+<circle cx="758.5" cy="199.0" r="4.5" fill="#f0a43a"/>
+<line x1="309.8" y1="189.0" x2="389.7" y2="189.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="309.8" cy="189.0" r="2" fill="#4d5560"/>
+<circle cx="389.7" cy="189.0" r="4.5" fill="#9198a1"/>
 <text x="0" y="229.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">prometheus</text>
 <text x="206" y="229.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">67k</text>
 <text x="880" y="229.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">3</text>
 <line x1="236" y1="225.0" x2="820" y2="225.0" stroke="#262c36" stroke-dasharray="1 4"/>
-<line x1="360.3" y1="225.0" x2="403.7" y2="225.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="360.3" cy="225.0" r="2" fill="#4d5560"/>
-<circle cx="403.7" cy="225.0" r="4.5" fill="#9198a1"/>
-<line x1="304.3" y1="225.0" x2="310.6" y2="225.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="304.3" cy="225.0" r="2" fill="#4d5560"/>
-<circle cx="310.6" cy="225.0" r="4.5" fill="#9198a1"/>
-<line x1="248.4" y1="225.0" x2="279.5" y2="225.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="248.4" cy="225.0" r="2" fill="#4d5560"/>
-<circle cx="279.5" cy="225.0" r="4.5" fill="#9198a1"/>
+<line x1="358.9" y1="225.0" x2="402.0" y2="225.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="358.9" cy="225.0" r="2" fill="#4d5560"/>
+<circle cx="402.0" cy="225.0" r="4.5" fill="#9198a1"/>
+<line x1="303.6" y1="225.0" x2="309.8" y2="225.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="303.6" cy="225.0" r="2" fill="#4d5560"/>
+<circle cx="309.8" cy="225.0" r="4.5" fill="#9198a1"/>
+<line x1="248.3" y1="225.0" x2="279.0" y2="225.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="248.3" cy="225.0" r="2" fill="#4d5560"/>
+<circle cx="279.0" cy="225.0" r="4.5" fill="#9198a1"/>
 <text x="0" y="265.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">rclone</text>
 <text x="206" y="265.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">61k</text>
 <text x="880" y="265.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">5</text>
 <line x1="236" y1="261.0" x2="820" y2="261.0" stroke="#262c36" stroke-dasharray="1 4"/>
-<line x1="583.9" y1="251.0" x2="608.8" y2="251.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="583.9" cy="251.0" r="2" fill="#4d5560"/>
-<circle cx="608.8" cy="251.0" r="4.5" fill="#9198a1"/>
-<line x1="583.9" y1="261.0" x2="608.8" y2="261.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="583.9" cy="261.0" r="2" fill="#4d5560"/>
-<circle cx="608.8" cy="261.0" r="4.5" fill="#f0a43a"/>
-<line x1="360.3" y1="271.0" x2="378.9" y2="271.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="360.3" cy="271.0" r="2" fill="#4d5560"/>
-<circle cx="378.9" cy="271.0" r="4.5" fill="#f0a43a"/>
-<line x1="335.4" y1="251.0" x2="360.3" y2="251.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="335.4" cy="251.0" r="2" fill="#4d5560"/>
-<circle cx="360.3" cy="251.0" r="4.5" fill="#f0a43a"/>
-<line x1="335.4" y1="261.0" x2="360.3" y2="261.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="335.4" cy="261.0" r="2" fill="#4d5560"/>
-<circle cx="360.3" cy="261.0" r="4.5" fill="#f0a43a"/>
+<line x1="580.3" y1="251.0" x2="604.8" y2="251.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="580.3" cy="251.0" r="2" fill="#4d5560"/>
+<circle cx="604.8" cy="251.0" r="4.5" fill="#9198a1"/>
+<line x1="580.3" y1="261.0" x2="604.8" y2="261.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="580.3" cy="261.0" r="2" fill="#4d5560"/>
+<circle cx="604.8" cy="261.0" r="4.5" fill="#f0a43a"/>
+<line x1="358.9" y1="271.0" x2="377.4" y2="271.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="358.9" cy="271.0" r="2" fill="#4d5560"/>
+<circle cx="377.4" cy="271.0" r="4.5" fill="#f0a43a"/>
+<line x1="334.4" y1="251.0" x2="358.9" y2="251.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="334.4" cy="251.0" r="2" fill="#4d5560"/>
+<circle cx="358.9" cy="251.0" r="4.5" fill="#f0a43a"/>
+<line x1="334.4" y1="261.0" x2="358.9" y2="261.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="334.4" cy="261.0" r="2" fill="#4d5560"/>
+<circle cx="358.9" cy="261.0" r="4.5" fill="#f0a43a"/>
 <text x="0" y="301.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">keycloak</text>
 <text x="206" y="301.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">38k</text>
 <text x="880" y="301.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">1</text>
 <line x1="236" y1="297.0" x2="820" y2="297.0" stroke="#262c36" stroke-dasharray="1 4"/>
-<line x1="236.0" y1="297.0" x2="310.6" y2="297.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<line x1="236.0" y1="297.0" x2="309.8" y2="297.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
 <circle cx="236.0" cy="297.0" r="2" fill="#4d5560"/>
-<circle cx="310.6" cy="297.0" r="4.5" fill="#f0a43a"/>
+<circle cx="309.8" cy="297.0" r="4.5" fill="#f0a43a"/>
 <text x="0" y="331.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">mastra</text>
 <text x="206" y="331.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">29k</text>
 <text x="880" y="331.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">1</text>
 <line x1="236" y1="327.0" x2="820" y2="327.0" stroke="#262c36" stroke-dasharray="1 4"/>
-<circle cx="242.2" cy="327.0" r="4.5" fill="#9198a1"/>
+<circle cx="242.1" cy="327.0" r="4.5" fill="#9198a1"/>
 <text x="0" y="361.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">goreleaser</text>
 <text x="206" y="361.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">16k</text>
 <text x="880" y="361.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">1</text>
 <line x1="236" y1="357.0" x2="820" y2="357.0" stroke="#262c36" stroke-dasharray="1 4"/>
-<circle cx="279.5" cy="357.0" r="4.5" fill="#f0a43a"/>
+<circle cx="279.0" cy="357.0" r="4.5" fill="#f0a43a"/>
 <text x="0" y="391.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">unstructured</text>
 <text x="206" y="391.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">16k</text>
 <text x="880" y="391.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">2</text>
 <line x1="236" y1="387.0" x2="820" y2="387.0" stroke="#262c36" stroke-dasharray="1 4"/>
-<line x1="583.9" y1="387.0" x2="590.1" y2="387.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="583.9" cy="387.0" r="2" fill="#4d5560"/>
-<circle cx="590.1" cy="387.0" r="4.5" fill="#f0a43a"/>
-<line x1="354.0" y1="387.0" x2="515.6" y2="387.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="354.0" cy="387.0" r="2" fill="#4d5560"/>
-<circle cx="515.6" cy="387.0" r="4.5" fill="#9198a1"/>
+<line x1="580.3" y1="387.0" x2="586.4" y2="387.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="580.3" cy="387.0" r="2" fill="#4d5560"/>
+<circle cx="586.4" cy="387.0" r="4.5" fill="#f0a43a"/>
+<line x1="352.8" y1="387.0" x2="512.6" y2="387.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="352.8" cy="387.0" r="2" fill="#4d5560"/>
+<circle cx="512.6" cy="387.0" r="4.5" fill="#9198a1"/>
 <text x="0" y="421.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">langchain4j</text>
 <text x="206" y="421.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">13k</text>
 <text x="880" y="421.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">1</text>
 <line x1="236" y1="417.0" x2="820" y2="417.0" stroke="#262c36" stroke-dasharray="1 4"/>
-<line x1="335.4" y1="417.0" x2="341.6" y2="417.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="335.4" cy="417.0" r="2" fill="#4d5560"/>
-<circle cx="341.6" cy="417.0" r="4.5" fill="#f0a43a"/>
-<text x="0" y="451.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">go-git</text>
-<text x="206" y="451.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">7.8k</text>
-<text x="880" y="451.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">1</text>
-<line x1="236" y1="447.0" x2="820" y2="447.0" stroke="#262c36" stroke-dasharray="1 4"/>
-<circle cx="279.5" cy="447.0" r="4.5" fill="#9198a1"/>
-<text x="0" y="482.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">openevolve</text>
-<text x="206" y="482.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">7.7k</text>
-<text x="880" y="482.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">2</text>
-<line x1="236" y1="478.0" x2="820" y2="478.0" stroke="#262c36" stroke-dasharray="1 4"/>
-<circle cx="764.1" cy="483.0" r="4.5" fill="#9198a1"/>
-<line x1="757.9" y1="473.0" x2="764.1" y2="473.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="757.9" cy="473.0" r="2" fill="#4d5560"/>
-<circle cx="764.1" cy="473.0" r="4.5" fill="#9198a1"/>
-<text x="0" y="513.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">gepa</text>
-<text x="206" y="513.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">7.2k</text>
-<text x="880" y="513.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">1</text>
-<line x1="236" y1="509.0" x2="820" y2="509.0" stroke="#262c36" stroke-dasharray="1 4"/>
-<line x1="757.9" y1="509.0" x2="770.3" y2="509.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="757.9" cy="509.0" r="2" fill="#4d5560"/>
-<circle cx="770.3" cy="509.0" r="4.5" fill="#9198a1"/>
-<text x="0" y="543.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">trafilatura</text>
-<text x="206" y="543.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">7k</text>
-<text x="880" y="543.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">2</text>
-<line x1="236" y1="539.0" x2="820" y2="539.0" stroke="#262c36" stroke-dasharray="1 4"/>
-<line x1="757.9" y1="539.0" x2="770.3" y2="539.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="757.9" cy="539.0" r="2" fill="#4d5560"/>
-<circle cx="770.3" cy="539.0" r="4.5" fill="#9198a1"/>
-<line x1="590.1" y1="539.0" x2="608.8" y2="539.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
-<circle cx="590.1" cy="539.0" r="2" fill="#4d5560"/>
-<circle cx="608.8" cy="539.0" r="4.5" fill="#f0a43a"/>
-<line x1="0" y1="566" x2="880" y2="566" stroke="#21262d"/>
-<circle cx="5" cy="584" r="4.5" fill="#f0a43a"/>
-<text x="16" y="588" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#9198a1">no error: wrong result or lost data</text>
-<circle cx="267" cy="584" r="4.5" fill="#9198a1"/>
-<text x="278" y="588" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#9198a1">crash or performance</text>
-<line x1="434" y1="584" x2="458" y2="584" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/><circle cx="434" cy="584" r="2" fill="#4d5560"/>
-<text x="466" y="588" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#9198a1">opened to merged</text>
-<text x="880" y="588" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#656c76">redrawn daily from the GitHub API</text>
+<line x1="334.4" y1="417.0" x2="340.5" y2="417.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="334.4" cy="417.0" r="2" fill="#4d5560"/>
+<circle cx="340.5" cy="417.0" r="4.5" fill="#f0a43a"/>
+<text x="0" y="452.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">txtai</text>
+<text x="206" y="452.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">13k</text>
+<text x="880" y="452.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">2</text>
+<line x1="236" y1="448.0" x2="820" y2="448.0" stroke="#262c36" stroke-dasharray="1 4"/>
+<line x1="758.5" y1="453.0" x2="770.8" y2="453.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="758.5" cy="453.0" r="2" fill="#4d5560"/>
+<circle cx="770.8" cy="453.0" r="4.5" fill="#9198a1"/>
+<line x1="752.4" y1="443.0" x2="770.8" y2="443.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="752.4" cy="443.0" r="2" fill="#4d5560"/>
+<circle cx="770.8" cy="443.0" r="4.5" fill="#9198a1"/>
+<text x="0" y="483.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">go-git</text>
+<text x="206" y="483.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">7.8k</text>
+<text x="880" y="483.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">1</text>
+<line x1="236" y1="479.0" x2="820" y2="479.0" stroke="#262c36" stroke-dasharray="1 4"/>
+<circle cx="279.0" cy="479.0" r="4.5" fill="#9198a1"/>
+<text x="0" y="514.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">openevolve</text>
+<text x="206" y="514.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">7.7k</text>
+<text x="880" y="514.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">2</text>
+<line x1="236" y1="510.0" x2="820" y2="510.0" stroke="#262c36" stroke-dasharray="1 4"/>
+<circle cx="758.5" cy="515.0" r="4.5" fill="#9198a1"/>
+<line x1="752.4" y1="505.0" x2="758.5" y2="505.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="752.4" cy="505.0" r="2" fill="#4d5560"/>
+<circle cx="758.5" cy="505.0" r="4.5" fill="#9198a1"/>
+<text x="0" y="545.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">gepa</text>
+<text x="206" y="545.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">7.2k</text>
+<text x="880" y="545.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">1</text>
+<line x1="236" y1="541.0" x2="820" y2="541.0" stroke="#262c36" stroke-dasharray="1 4"/>
+<line x1="752.4" y1="541.0" x2="764.7" y2="541.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="752.4" cy="541.0" r="2" fill="#4d5560"/>
+<circle cx="764.7" cy="541.0" r="4.5" fill="#9198a1"/>
+<text x="0" y="575.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">trafilatura</text>
+<text x="206" y="575.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">7k</text>
+<text x="880" y="575.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">2</text>
+<line x1="236" y1="571.0" x2="820" y2="571.0" stroke="#262c36" stroke-dasharray="1 4"/>
+<line x1="752.4" y1="571.0" x2="764.7" y2="571.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="752.4" cy="571.0" r="2" fill="#4d5560"/>
+<circle cx="764.7" cy="571.0" r="4.5" fill="#9198a1"/>
+<line x1="586.4" y1="571.0" x2="604.8" y2="571.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
+<circle cx="586.4" cy="571.0" r="2" fill="#4d5560"/>
+<circle cx="604.8" cy="571.0" r="4.5" fill="#f0a43a"/>
+<line x1="0" y1="598" x2="880" y2="598" stroke="#21262d"/>
+<circle cx="5" cy="616" r="4.5" fill="#f0a43a"/>
+<text x="16" y="620" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#9198a1">no error: wrong result or lost data</text>
+<circle cx="267" cy="616" r="4.5" fill="#9198a1"/>
+<text x="278" y="620" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#9198a1">crash or performance</text>
+<line x1="434" y1="616" x2="458" y2="616" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/><circle cx="434" cy="616" r="2" fill="#4d5560"/>
+<text x="466" y="620" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#9198a1">opened to merged</text>
+<text x="880" y="620" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#656c76">redrawn daily from the GitHub API</text>
 </g>
 </svg>
