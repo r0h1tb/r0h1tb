@@ -11,12 +11,12 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 **Merged upstream**
 
 <!-- merged starts -->
+[trafilatura #1006](https://github.com/adbar/trafilatura/pull/1006) recognize Python-Markdown codehilite blocks as code <sub>Oct 28</sub><br>
 [txtai #1477](https://github.com/neuml/txtai/pull/1477) Store classification labels under the label key for custom label columns <sub>Oct 27</sub><br>
 [txtai #1473](https://github.com/neuml/txtai/pull/1473) Keep RAG reference ids aligned with texts when empty texts are skipped <sub>Oct 27</sub><br>
 [trafilatura #1004](https://github.com/adbar/trafilatura/pull/1004) keep sitemap locations that are indented inside &lt;loc&gt; <sub>Oct 26</sub><br>
 [docling #4391](https://github.com/docling-project/docling/pull/4391) keep a block title separate from the paragraph it titles <sub>Oct 26</sub><br>
-[gepa #524](https://github.com/gepa-ai/gepa/pull/524) strip a fence language tag followed by CRLF or trailing whitespace <sub>Oct 26</sub><br>
-[openevolve #546](https://github.com/algorithmicsuperintelligence/openevolve/pull/546) only treat whole lines as SEARCH/REPLACE markers <sub>Oct 25</sub>
+[gepa #524](https://github.com/gepa-ai/gepa/pull/524) strip a fence language tag followed by CRLF or trailing whitespace <sub>Oct 26</sub>
 <!-- merged ends -->
 
 </td><td valign="top" width="50%">
@@ -25,11 +25,11 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 
 <!-- review starts -->
 [docling-core #923](https://github.com/docling-project/docling-core/pull/923) stop key-value graph rendering at a to_child cycle <sub>Oct 25</sub><br>
-[trafilatura #1006](https://github.com/adbar/trafilatura/pull/1006) recognize Python-Markdown codehilite blocks as code <sub>Oct 25</sub><br>
 [unstructured-ingest #832](https://github.com/Unstructured-IO/unstructured-ingest/pull/832) stop generator_batching_wbytes from dropping items or yielding an empty batch <sub>Oct 24</sub><br>
 [gcfg #16](https://github.com/go-git/gcfg/pull/16) Read a leading BOM and continued values the way git does <sub>Oct 19</sub><br>
 [rclone #10141](https://github.com/rclone/rclone/pull/10141) return 416 for ranges --rc-serve and serve restic can't satisfy <sub>Oct 19</sub><br>
-[xgrammar #997](https://github.com/mlc-ai/xgrammar/pull/997) enforce integer multipleOf with one-sided and large ranges <sub>Oct 18</sub>
+[xgrammar #997](https://github.com/mlc-ai/xgrammar/pull/997) enforce integer multipleOf with one-sided and large ranges <sub>Oct 18</sub><br>
+[aisuite #424](https://github.com/andrewyng/aisuite/pull/424) preserve text across Bedrock response blocks <sub>Oct 18</sub>
 <!-- review ends -->
 
 </td></tr></table>
@@ -44,5 +44,5 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 <!-- building ends -->
 
 <!-- totals starts -->
-<sub>27 fixes merged into 15 projects · 20 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
+<sub>28 fixes merged into 15 projects · 19 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
 <!-- totals ends -->
