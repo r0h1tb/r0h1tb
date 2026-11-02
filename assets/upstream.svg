@@ -145,7 +145,7 @@
 <circle cx="741.7" cy="541.0" r="2" fill="#4d5560"/>
 <circle cx="753.8" cy="541.0" r="4.5" fill="#9198a1"/>
 <text x="0" y="576.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">trafilatura</text>
-<text x="206" y="576.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">7k</text>
+<text x="206" y="576.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">7.1k</text>
 <text x="880" y="576.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">3</text>
 <line x1="236" y1="572.0" x2="820" y2="572.0" stroke="#262c36" stroke-dasharray="1 4"/>
 <line x1="747.8" y1="577.0" x2="765.8" y2="577.0" stroke="#4d5560" stroke-width="2" stroke-linecap="round"/>
