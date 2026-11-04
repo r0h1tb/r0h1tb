@@ -11,12 +11,12 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 **Merged upstream**
 
 <!-- merged starts -->
-[rclone #10141](https://github.com/rclone/rclone/pull/10141) return 416 for ranges --rc-serve and serve restic can't satisfy <sub>Oct 29</sub><br>
-[trafilatura #1006](https://github.com/adbar/trafilatura/pull/1006) recognize Python-Markdown codehilite blocks as code <sub>Oct 28</sub><br>
-[txtai #1477](https://github.com/neuml/txtai/pull/1477) Store classification labels under the label key for custom label columns <sub>Oct 27</sub><br>
-[txtai #1473](https://github.com/neuml/txtai/pull/1473) Keep RAG reference ids aligned with texts when empty texts are skipped <sub>Oct 27</sub><br>
-[trafilatura #1004](https://github.com/adbar/trafilatura/pull/1004) keep sitemap locations that are indented inside &lt;loc&gt; <sub>Oct 26</sub><br>
-[docling #4391](https://github.com/docling-project/docling/pull/4391) keep a block title separate from the paragraph it titles <sub>Oct 26</sub>
+[platform-gitops #6](https://github.com/cards-pilot-estate/platform-gitops/pull/6) otp-service 696559c <sub>Nov 4</sub><br>
+[sim-comms #6](https://github.com/cards-pilot-estate/sim-comms/pull/6) a verified challenge cannot be resent <sub>Nov 4</sub><br>
+[api-gateway #10](https://github.com/cards-pilot-estate/api-gateway/pull/10) a valid label with revision-based chart versions <sub>Nov 4</sub><br>
+[platform-gitops #4](https://github.com/cards-pilot-estate/platform-gitops/pull/4) include each chart's values.yaml in valuesFiles <sub>Nov 4</sub><br>
+[platform-gitops #2](https://github.com/cards-pilot-estate/platform-gitops/pull/2) Flux with the team services on kind <sub>Nov 4</sub><br>
+[channel-web #10](https://github.com/cards-pilot-estate/channel-web/pull/10) publish the image to GHCR on main <sub>Nov 4</sub>
 <!-- merged ends -->
 
 </td><td valign="top" width="50%">
@@ -44,5 +44,5 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 <!-- building ends -->
 
 <!-- totals starts -->
-<sub>29 fixes merged into 15 projects · 18 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
+<sub>45 fixes merged into 19 projects · 18 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
 <!-- totals ends -->
