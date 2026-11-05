@@ -11,12 +11,12 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 **Merged upstream**
 
 <!-- merged starts -->
-[platform-gitops #6](https://github.com/cards-pilot-estate/platform-gitops/pull/6) otp-service 696559c <sub>Nov 4</sub><br>
-[sim-comms #6](https://github.com/cards-pilot-estate/sim-comms/pull/6) a verified challenge cannot be resent <sub>Nov 4</sub><br>
-[api-gateway #10](https://github.com/cards-pilot-estate/api-gateway/pull/10) a valid label with revision-based chart versions <sub>Nov 4</sub><br>
-[platform-gitops #4](https://github.com/cards-pilot-estate/platform-gitops/pull/4) include each chart's values.yaml in valuesFiles <sub>Nov 4</sub><br>
-[platform-gitops #2](https://github.com/cards-pilot-estate/platform-gitops/pull/2) Flux with the team services on kind <sub>Nov 4</sub><br>
-[channel-web #10](https://github.com/cards-pilot-estate/channel-web/pull/10) publish the image to GHCR on main <sub>Nov 4</sub>
+[platform-gitops #12](https://github.com/cards-pilot-estate/platform-gitops/pull/12) the local CA moves here; Flux is cert-manager's only owner <sub>Nov 5</sub><br>
+[channel-web #14](https://github.com/cards-pilot-estate/channel-web/pull/14) wait for the step-up code before entering it <sub>Nov 4</sub><br>
+[platform-gitops #10](https://github.com/cards-pilot-estate/platform-gitops/pull/10) otp-service 7750b06 <sub>Nov 4</sub><br>
+[sim-comms #8](https://github.com/cards-pilot-estate/sim-comms/pull/8) the simulated phone answers on its documented address <sub>Nov 4</sub><br>
+[platform-gitops #8](https://github.com/cards-pilot-estate/platform-gitops/pull/8) channel-web 1fc24bd <sub>Nov 4</sub><br>
+[channel-web #12](https://github.com/cards-pilot-estate/channel-web/pull/12) show the offer and take the customer's answer after a fresh code <sub>Nov 4</sub>
 <!-- merged ends -->
 
 </td><td valign="top" width="50%">
@@ -44,5 +44,5 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 <!-- building ends -->
 
 <!-- totals starts -->
-<sub>45 fixes merged into 19 projects · 18 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
+<sub>52 fixes merged into 19 projects · 18 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
 <!-- totals ends -->
