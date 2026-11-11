@@ -126,7 +126,7 @@
 <circle cx="707.7" cy="443.0" r="2" fill="#4d5560"/>
 <circle cx="724.5" cy="443.0" r="4.5" fill="#9198a1"/>
 <text x="0" y="483.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">go-git</text>
-<text x="206" y="483.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">7.8k</text>
+<text x="206" y="483.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#9198a1">7.9k</text>
 <text x="880" y="483.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9198a1">1</text>
 <line x1="236" y1="479.0" x2="820" y2="479.0" stroke="#262c36" stroke-dasharray="1 4"/>
 <circle cx="275.3" cy="479.0" r="4.5" fill="#9198a1"/>
