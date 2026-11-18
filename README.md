@@ -11,12 +11,12 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 **Merged upstream**
 
 <!-- merged starts -->
+[gcfg #16](https://github.com/go-git/gcfg/pull/16) Read a leading BOM and continued values the way git does <sub>Nov 18</sub><br>
 [platform-gitops #12](https://github.com/cards-pilot-estate/platform-gitops/pull/12) the local CA moves here; Flux is cert-manager's only owner <sub>Nov 5</sub><br>
 [channel-web #14](https://github.com/cards-pilot-estate/channel-web/pull/14) wait for the step-up code before entering it <sub>Nov 4</sub><br>
 [platform-gitops #10](https://github.com/cards-pilot-estate/platform-gitops/pull/10) otp-service 7750b06 <sub>Nov 4</sub><br>
 [sim-comms #8](https://github.com/cards-pilot-estate/sim-comms/pull/8) the simulated phone answers on its documented address <sub>Nov 4</sub><br>
-[platform-gitops #8](https://github.com/cards-pilot-estate/platform-gitops/pull/8) channel-web 1fc24bd <sub>Nov 4</sub><br>
-[channel-web #12](https://github.com/cards-pilot-estate/channel-web/pull/12) show the offer and take the customer's answer after a fresh code <sub>Nov 4</sub>
+[platform-gitops #8](https://github.com/cards-pilot-estate/platform-gitops/pull/8) channel-web 1fc24bd <sub>Nov 4</sub>
 <!-- merged ends -->
 
 </td><td valign="top" width="50%">
@@ -26,10 +26,10 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 <!-- review starts -->
 [docling-core #923](https://github.com/docling-project/docling-core/pull/923) stop key-value graph rendering at a to_child cycle <sub>Oct 25</sub><br>
 [unstructured-ingest #832](https://github.com/Unstructured-IO/unstructured-ingest/pull/832) stop generator_batching_wbytes from dropping items or yielding an empty batch <sub>Oct 24</sub><br>
-[gcfg #16](https://github.com/go-git/gcfg/pull/16) Read a leading BOM and continued values the way git does <sub>Oct 19</sub><br>
 [xgrammar #997](https://github.com/mlc-ai/xgrammar/pull/997) enforce integer multipleOf with one-sided and large ranges <sub>Oct 18</sub><br>
 [aisuite #424](https://github.com/andrewyng/aisuite/pull/424) preserve text across Bedrock response blocks <sub>Oct 18</sub><br>
-[llama-agents #813](https://github.com/run-llama/llama-agents/pull/813) resolve resources safely across concurrent workflow steps <sub>Oct 16</sub>
+[llama-agents #813](https://github.com/run-llama/llama-agents/pull/813) resolve resources safely across concurrent workflow steps <sub>Oct 16</sub><br>
+[unstructured #4503](https://github.com/Unstructured-IO/unstructured/pull/4503) extract &lt;figure&gt; content instead of discarding it <sub>Sep 26</sub>
 <!-- review ends -->
 
 </td></tr></table>
@@ -44,5 +44,5 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 <!-- building ends -->
 
 <!-- totals starts -->
-<sub>52 fixes merged into 19 projects · 18 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
+<sub>53 fixes merged into 20 projects · 17 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
 <!-- totals ends -->
