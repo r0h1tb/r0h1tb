@@ -24,12 +24,12 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 **In review**
 
 <!-- review starts -->
+[prometheus #20530](https://github.com/prometheus/prometheus/pull/20530) keep a staleness marker followed by a later sample in one commit <sub>Nov 21</sub><br>
+[rclone #10403](https://github.com/rclone/rclone/pull/10403) serve ftp: fix APPE and resumed uploads destroying the existing file <sub>Nov 21</sub><br>
+[spring-ai #7440](https://github.com/spring-projects/spring-ai/pull/7440) Keep parenthesized groups in Qdrant filters <sub>Nov 21</sub><br>
 [docling-core #923](https://github.com/docling-project/docling-core/pull/923) stop key-value graph rendering at a to_child cycle <sub>Oct 25</sub><br>
 [xgrammar #997](https://github.com/mlc-ai/xgrammar/pull/997) enforce integer multipleOf with one-sided and large ranges <sub>Oct 18</sub><br>
-[aisuite #424](https://github.com/andrewyng/aisuite/pull/424) preserve text across Bedrock response blocks <sub>Oct 18</sub><br>
-[llama-agents #813](https://github.com/run-llama/llama-agents/pull/813) resolve resources safely across concurrent workflow steps <sub>Oct 16</sub><br>
-[unstructured #4503](https://github.com/Unstructured-IO/unstructured/pull/4503) extract &lt;figure&gt; content instead of discarding it <sub>Sep 26</sub><br>
-[rclone #9985](https://github.com/rclone/rclone/pull/9985) fix sizes and durations passed as numbers in flat parameters <sub>Sep 26</sub>
+[aisuite #424](https://github.com/andrewyng/aisuite/pull/424) preserve text across Bedrock response blocks <sub>Oct 18</sub>
 <!-- review ends -->
 
 </td></tr></table>
@@ -44,5 +44,5 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 <!-- building ends -->
 
 <!-- totals starts -->
-<sub>54 fixes merged into 21 projects · 16 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
+<sub>54 fixes merged into 21 projects · 19 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
 <!-- totals ends -->
