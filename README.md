@@ -44,5 +44,5 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 <!-- building ends -->
 
 <!-- totals starts -->
-<sub>55 fixes merged into 21 projects · 21 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
+<sub>55 fixes merged into 21 projects · 19 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
 <!-- totals ends -->
