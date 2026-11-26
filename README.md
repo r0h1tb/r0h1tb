@@ -24,12 +24,12 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 **In review**
 
 <!-- review starts -->
+[spring-security #20175](https://github.com/spring-projects/spring-security/pull/20175) Add reactive @Secured and JSR-250 method security <sub>Nov 26</sub><br>
+[axios #11509](https://github.com/axios/axios/pull/11509) send form-data package bodies instead of "[object FormData]" <sub>Nov 25</sub><br>
+[prometheus #20568](https://github.com/prometheus/prometheus/pull/20568) drop untyped metrics and too coarse histograms instead of rejecting the request <sub>Nov 25</sub><br>
+[langchain4j #7302](https://github.com/langchain4j/langchain4j/pull/7302) MongoDB Atlas: map negated And, Or and Not filters to $nor <sub>Nov 25</sub><br>
 [spring-ai #7445](https://github.com/spring-projects/spring-ai/pull/7445) Escape punctuation in Redis TAG filter values <sub>Nov 22</sub><br>
-[go-git #2645](https://github.com/go-git/go-git/pull/2645) repository, Prefer refs to abbreviated ids in ResolveRevision <sub>Nov 22</sub><br>
-[prometheus #20530](https://github.com/prometheus/prometheus/pull/20530) keep a staleness marker followed by a later sample in one commit <sub>Nov 21</sub><br>
-[rclone #10403](https://github.com/rclone/rclone/pull/10403) serve ftp: fix APPE and resumed uploads destroying the existing file <sub>Nov 21</sub><br>
-[spring-ai #7440](https://github.com/spring-projects/spring-ai/pull/7440) Keep parenthesized groups in Qdrant filters <sub>Nov 21</sub><br>
-[docling-core #923](https://github.com/docling-project/docling-core/pull/923) stop key-value graph rendering at a to_child cycle <sub>Oct 25</sub>
+[go-git #2645](https://github.com/go-git/go-git/pull/2645) repository, Prefer refs to abbreviated ids in ResolveRevision <sub>Nov 22</sub>
 <!-- review ends -->
 
 </td></tr></table>
@@ -44,5 +44,5 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 <!-- building ends -->
 
 <!-- totals starts -->
-<sub>55 fixes merged into 21 projects · 19 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
+<sub>55 fixes merged into 21 projects · 23 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
 <!-- totals ends -->
