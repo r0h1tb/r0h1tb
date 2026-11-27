@@ -11,12 +11,12 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 **Merged upstream**
 
 <!-- merged starts -->
+[docling-core #923](https://github.com/docling-project/docling-core/pull/923) stop key-value graph rendering at a to_child cycle <sub>Nov 26</sub><br>
 [prometheus #20536](https://github.com/prometheus/prometheus/pull/20536) drop metrics with unsupported temporality instead of rejecting the request <sub>Nov 23</sub><br>
 [unstructured-ingest #832](https://github.com/Unstructured-IO/unstructured-ingest/pull/832) stop generator_batching_wbytes from dropping items or yielding an empty batch <sub>Nov 19</sub><br>
 [gcfg #16](https://github.com/go-git/gcfg/pull/16) Read a leading BOM and continued values the way git does <sub>Nov 18</sub><br>
 [platform-gitops #12](https://github.com/cards-pilot-estate/platform-gitops/pull/12) the local CA moves here; Flux is cert-manager's only owner <sub>Nov 5</sub><br>
-[channel-web #14](https://github.com/cards-pilot-estate/channel-web/pull/14) wait for the step-up code before entering it <sub>Nov 4</sub><br>
-[platform-gitops #10](https://github.com/cards-pilot-estate/platform-gitops/pull/10) otp-service 7750b06 <sub>Nov 4</sub>
+[channel-web #14](https://github.com/cards-pilot-estate/channel-web/pull/14) wait for the step-up code before entering it <sub>Nov 4</sub>
 <!-- merged ends -->
 
 </td><td valign="top" width="50%">
@@ -44,5 +44,5 @@ I finish things. Give me a broken service or a bug nobody has picked up: I'll fi
 <!-- building ends -->
 
 <!-- totals starts -->
-<sub>55 fixes merged into 21 projects · 23 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
+<sub>56 fixes merged into 22 projects · 22 in review · kept current daily by [a script](build_readme.py), not by hand</sub>
 <!-- totals ends -->
